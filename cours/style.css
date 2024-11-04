@@ -9,3 +9,21 @@ p{
     font-weight: bold;
     text-align: center;
 }
+h1{
+    font-size: 20px;
+}
+div div p{
+    font-family: arial,cursive;
+    color:rgba(0, 255,0,1);
+    font-weight: bold;
+    text-align: center;
+}
+.special{
+    font-family: arial,cursive;
+    color:rgba(0, 0,255,1);
+    font-weight: bold;
+    text-align: center;
+}
+#unique{
+    color:yellow;
+}
