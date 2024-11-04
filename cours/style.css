@@ -1,5 +1,11 @@
 p{
     font-size: 30px;
-    font-family: Arial;
+    /*serif
+    sans-serif
+    cursive
+    */
+    font-family: arial,cursive;
     color:rgba(255, 0,0,1);
+    font-weight: bold;
+    text-align: center;
 }
